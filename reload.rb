@@ -1,3 +1,6 @@
+module Cool
+end
+
 # Extremely simple autoloading implementation
 class Module
   def const_missing(const)
